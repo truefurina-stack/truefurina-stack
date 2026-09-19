@@ -1,18 +1,26 @@
-# Hi, I'm @TrueFurina's companion account 👋
+# Hi, I'm truefurina-stack 👋
 
-This is a secondary account used for community support, repo maintenance, and
-cross-account activities.
+Community support & open-source exploration account alongside my main account
+[@TrueFurina](https://github.com/TrueFurina).
 
-> ⭐ **Please follow my main account: [@TrueFurina](https://github.com/TrueFurina)**
-> All the real work, projects, and updates live there.
+## What I'm exploring here
 
-## What I do
+- 🔍 **OSINT / EASM / passive reconnaissance** — running and stress-testing
+  [passive-recon](https://github.com/TrueFurina/passive-recon), a zero-touch
+  passive recon platform (15+ data sources, one command)
+- 🤝 **Community support** — answering questions, triaging issues, improving docs
+  in AI-security and CTF tooling projects
 
-- 📦 Star and support open-source projects from the main account
-- 🤝 Connect with the open-source community
-- 🔄 Assist with cross-account housekeeping
+## Where the real work lives
 
-## Links
+Everything I build ships on my main account [@TrueFurina](https://github.com/TrueFurina):
 
-- Main account: [github.com/TrueFurina](https://github.com/TrueFurina)
-- This account: [github.com/truefurina-stack](https://github.com/truefurina-stack)
+- 🛡️ AI Agent Security — LLM red-teaming & agent privilege governance
+- 🤖 [MARS-408](https://github.com/TrueFurina/MARS-408) — multi-agent learning system
+- 🧪 [AGI-Distiller](https://github.com/TrueFurina/AGI-Distiller) — self-evolving knowledge distillation
+- ⚔️ [xihu-sword-ctf-agent](https://github.com/TrueFurina/xihu-sword-ctf-agent) — CTF-solving AI agent
+
+## This account
+
+- Profile: [github.com/truefurina-stack](https://github.com/truefurina-stack)
+- Fork I maintain: [passive-recon](https://github.com/truefurina-stack/passive-recon)
